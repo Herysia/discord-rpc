@@ -1,0 +1,1 @@
+module.exports.IPC = require('./lib/IPC.js')

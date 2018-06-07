@@ -1,0 +1,19 @@
+{
+  "name": "discord-rpc-broker",
+  "version": "0.0.1",
+  "description": "A simple broker to accept websocket conenction from moz-extension:// domain and translate to discord ipc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmis1000",
+  "license": "MIT",
+  "dependencies": {
+    "snekfetch": "^4.0.2",
+    "ws": "^5.2.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
