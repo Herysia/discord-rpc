@@ -1,5 +1,7 @@
 # Discord Rpc Broker
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mmis1000/discord-rpc.svg)](https://greenkeeper.io/)
+
 A simple broker to accept websocket conenction from moz-extension:// domain and translate to discord ipc
 
 Usage:
